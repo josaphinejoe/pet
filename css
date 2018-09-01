@@ -1,0 +1,31 @@
+#interesting-fact {
+  		font-style: italic;
+	}
+
+	#facts{
+
+      	list-style:none;
+	}
+#facts:label{
+  font-weight : 700;
+}
+	h1 {
+
+  		padding: 20px 50px;
+	}
+	div {
+    width: 300px;
+    padding: 25px;
+}
+	#container {
+    border: 5px solid grey;
+}
+	#borderimg {
+	border: 10px solid;
+    	padding: 15px;
+    	border-image: http://thumbs.modthesims2.com/img/2/4/0/8/2/7/2/MTS_PharaohHound-1359592-Kitties_thumb.jpg 30 round;
+}
+	#card {
+    border: 2px solid grey;
+	padding: 1px;
+}
